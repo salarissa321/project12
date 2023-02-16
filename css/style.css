@@ -1,0 +1,87 @@
+
+body{
+    font-weight: 200;
+    
+}
+
+.mydiv2{
+    background-color: #3D60C6;
+}
+
+.mydiv{
+      
+}
+
+.mycontainer{
+}
+
+.mynav{
+    
+
+}
+
+.navbar-brand{
+color: white;
+}
+
+
+.mylink{
+    font-weight: 400;
+    margin: 20px;
+    color: white;
+}
+
+.mybutton{
+    padding-right: 20px;
+    background-color: #10cb6c;
+color: #fff;
+margin-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 20px;
+font-weight: 400;
+border-radius: 30px;
+}
+
+.mybtn{
+color: white;
+}
+
+.myschrift{
+    line-height: 1.2;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color: white;
+   
+}
+
+.mypara{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+font-size: 20px;
+
+
+}
+
+.myinfo{
+    background-color: #43c1a8;
+color: #fff;
+
+
+padding-left: 30px;
+padding-right: 30px;
+font-size: 15px;
+font-weight: 500;
+margin-left: 500px;
+border-radius: 50px;
+line-height: 1;
+letter-spacing: .5px;
+padding-top: 20px;
+padding-bottom: 20px;
+min-width: 185px;
+min-height: 56px;
+
+
+}
