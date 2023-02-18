@@ -22,6 +22,7 @@ body{
 
 .navbar-brand{
 color: white;
+font-size: 25px;
 }
 
 
@@ -82,6 +83,100 @@ padding-top: 20px;
 padding-bottom: 20px;
 min-width: 185px;
 min-height: 56px;
+}
 
+.myimg{
+   margin-right: 50px; 
+}
 
+.mykuli{
+    
+
+font-weight: 300;
+margin-left: 20px;
+margin-top: 40px;
+
+color: #888a8b;
+}
+
+.myschreiben{
+    font-weight: 200;
+color: #404040;
+margin-top: 20px;
+margin-left: 18px;
+font-size: 40px;
+
+}
+.myparagraf{
+    margin-bottom: 35px;
+    margin-top: 25px;
+    margin-left: 18px;
+font-size: 20px;
+
+font-weight: 200;
+color: #888a8b;
+}
+
+.myclick{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 1;
+    letter-spacing: .5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-width: 185px;
+    min-height: 56px;
+    margin-left: 18px;
+    border-color: #10cb6c;
+}
+
+.myh2{
+    
+    font-size: 40px;
+    font-weight: 200;
+color: #404040;
+
+margin-left: 150px;
+}
+
+.myparagrafer{
+    margin-bottom: 35px;
+    margin-top: 25px;
+    
+font-size: 20px;
+
+font-weight: 100;
+color: #888a8b;
+margin-left: 150px;
+}
+
+.myclick1{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 1;
+    letter-spacing: .5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-width: 185px;
+    min-height: 56px;
+    margin-left: 150px;
+    border-color: #10cb6c;
+}
+
+.myimage{
+    
+    
+  
+   
+    
+    
+  
 }
